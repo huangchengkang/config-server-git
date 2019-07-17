@@ -7,4 +7,6 @@ management:
       enabled: true
     health:
       enabled: true
+    bus-refresh:
+      enabled: true
 # ================= 监控中心 公用配置 结束=====================
