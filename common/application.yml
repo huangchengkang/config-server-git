@@ -1,10 +1,10 @@
 # ================= 监控中心 公用配置 开始 =====================
-management:
-  endpoints:
+#management:
+#  endpoints:
     #enabled-by-default: false
-    web:
-      exposure:
-        include: "*"
+#    web:
+#      exposure:
+#        include: "*"
 #  endpoint:
 #    info:
 #      enabled: true
