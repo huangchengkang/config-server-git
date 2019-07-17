@@ -1,15 +1,15 @@
 # ================= 监控中心 公用配置 开始 =====================
 management:
   endpoints:
-    enabled-by-default: false
+    #enabled-by-default: false
     web:
       exposure:
         include: "*"
-  endpoint:
-    info:
-      enabled: true
-    health:
-      enabled: true
-    bus-refresh:
-      enabled: true
+#  endpoint:
+#    info:
+#      enabled: true
+#    health:
+#      enabled: true
+#    bus-refresh:
+#      enabled: true
 # ================= 监控中心 公用配置 结束=====================
