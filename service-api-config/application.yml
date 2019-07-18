@@ -1,3 +1,2 @@
 logging:
-  level:
-    com.kancy.springcloud.serviceapi: debug
+  level: debug
