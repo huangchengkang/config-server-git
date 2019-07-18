@@ -1,2 +1,4 @@
 logging:
-  level: debug
+  level:
+    org: debug
+    com: debug
