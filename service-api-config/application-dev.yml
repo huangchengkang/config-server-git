@@ -1,5 +1,8 @@
 version: 1.2
 
+spring:
+  profiles:
+    active: test
 author:
   name: 黄成康
   age: 25
