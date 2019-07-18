@@ -1,0 +1,3 @@
+logging:
+  level:
+    com.kancy.springcloud.serviceapi: info
